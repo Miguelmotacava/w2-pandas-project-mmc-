@@ -22,7 +22,7 @@ Tras la limpieza, se grafican los resultados de las columnas seleccionadas. El a
 ![image](https://user-images.githubusercontent.com/109019847/186034536-6ab98cda-ff3f-4ace-be69-3152d57f9d0b.png)
 
 
-Por los motivos que se han expusto previamente, a partir de ahora el análisis se centrará en los registros de los últimos 40 años (1978-2018). Mediante la representación de la informacion del dataset limpio, se llega a varias conclusiones, como que el país donde más ataques hay es USA, seguido de Australia y Sudáfrica. Tmabién se ha podido concluir que el tiburón blanco es el que más ataques ha realizado, y con mayor ''efectividad''.
+Por los motivos que se han expusto previamente, a partir de ahora el análisis se centrará en los registros de los últimos 40 años (1978-2018). Mediante la representación de la informacion del dataset limpio, se llega a varias conclusiones, como que el país donde más ataques hay es USA, seguido de Australia y Sudáfrica. También se ha podido concluir que el tiburón blanco es el que más ataques ha realizado, y con mayor ''efectividad'', seguido del tiburón tigre y del tiburón toro. A continuació se dejan las figurascon las que se han analizado brevemente los datos obtenidos posteriormente a la limpieza.
 
 ![image](https://user-images.githubusercontent.com/109019847/186034714-e4b65882-da41-4335-abed-1b60bf0865f2.png)
 
