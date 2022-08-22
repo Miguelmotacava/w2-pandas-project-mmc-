@@ -16,11 +16,24 @@ Para finalizar, se resetean los indices y se guarda el dataset de los datos limp
 
 **c) análisis y conclusiones**
 
-Tras la limpieza, se grafican los resultados de las columnas seleccionadas. El análisis comienza con una figura, donde aparecen representado el número de ataques, incluyendo si son fatales o no, en función del año en que tuvieron lugar. Mediante su visualización, se pueden intuir que durante el siglo XIX y principios del XX no se tomaban muchos registros o no se producián tantos ataques, como empieza a ocurrir a principios de los 70. Esta falta de datos se puede deber a que no se tenían los medios suficientes para tomar dichos registros, o que simplemente el contexto histórico relevara la importancia de este estudio. Otro factor a tener en cuenta en el comportamiento de dicha figura es que la proporción de ataqus fatales va en detrimento, hecho que se puede deber a un avance tecnológico que permitió unos mejores equipos de rescate o sanidad.
-Por los motivos que se han expusto previamente, a partir de ahora el análisis se centrará en los registros de los últimos 40 años (1978-2018). Mediante la representación de la informacion del dataset limpio, se llega a varias conclusiones, como que el país donde más ataques hay es USA, seguido de Australia y Sudáfrica. Tmabién se ha podido concluir que el tiburón blanco es el que más ataques ha realizado, y con mayor ''efectividad''.
+Tras la limpieza, se grafican los resultados de las columnas seleccionadas. El análisis comienza con la siguiente figura, donde aparecen representado el número de ataques, incluyendo si son fatales o no, en función del año en que tuvieron lugar. Mediante su visualización, se pueden intuir que durante el siglo XIX y principios del XX no se tomaban muchos registros o no se producián tantos ataques, como empieza a ocurrir a principios de los 70. Esta falta de datos se puede deber a que no se tenían los medios suficientes para tomar dichos registros, o que simplemente el contexto histórico relevara la importancia de este estudio. Otro factor a tener en cuenta en el comportamiento de dicha figura es que la proporción de ataqus fatales va en detrimento, hecho que se puede deber a un avance tecnológico que permitió unos mejores equipos de rescate o sanidad.
+
 
 ![image](https://user-images.githubusercontent.com/109019847/186034536-6ab98cda-ff3f-4ace-be69-3152d57f9d0b.png)
 
 
-Si se desea consultar las figuras, consulte el excel con las tablas dinámicas, o en su defecto, el PTT. 
+Por los motivos que se han expusto previamente, a partir de ahora el análisis se centrará en los registros de los últimos 40 años (1978-2018). Mediante la representación de la informacion del dataset limpio, se llega a varias conclusiones, como que el país donde más ataques hay es USA, seguido de Australia y Sudáfrica. Tmabién se ha podido concluir que el tiburón blanco es el que más ataques ha realizado, y con mayor ''efectividad''.
+
+![image](https://user-images.githubusercontent.com/109019847/186034714-e4b65882-da41-4335-abed-1b60bf0865f2.png)
+
+![image](https://user-images.githubusercontent.com/109019847/186034891-a0a85e77-d5d4-4c51-b036-1e4711a62944.png)
+
+![image](https://user-images.githubusercontent.com/109019847/186034909-ec995c8a-a8c5-4443-aa5e-1c126bd8295b.png)
+
+![image](https://user-images.githubusercontent.com/109019847/186035014-a9d4ea91-ab11-4cc3-935c-2972610d99ee.png)
+
+
+
+
+Si se desea consultar el dataset, consulte la carpeta code. Si desea ver los datos en crudo, previos al proyecto, consulte la carpeta data. 
 
