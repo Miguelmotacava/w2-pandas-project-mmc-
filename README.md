@@ -3,12 +3,16 @@
 El proyecto se ha dividido en 3 partes:
 
 **a) planteamiento del problema**
+
 Se tiene un dataset que contiene registros de ataques de tiburones con unas 2500 filas y 24 columnas. El objetivo final es analizar dichos datos y para ello primero se debe preseleccionar las columnas que se quiere analizar (para trabajar de manera eficiente) y limpiar la información teniéndolas en cuenta.
 
+
 **b) limpieza del dataset**
+
 Una vez que se ha seleccionado las columnas que posteriormente someteremos a estudio, se va a proceder a limpiar el dataset. Para ello, inicialmente se corrige el nombre de las columnas y se busca las filas duplicadas haciendo uso del comando drop_duplicates(). Esto nos permitirá trabajar con un menor número de datos y de manera más cómoda y eficiente. A continuación, se hace la limpieza de las columnas que se quieren analizar (case__number, date, year, fatal_(y/n), activity, species, type, sex, country, area). Este paso se ha subdividido en 2 partes: la primera de ellas se corresponde con un tratado general de estos datos, mientras que la segunda es una limpieza individual de cada ellas. El primer proceso consiste en borrar todas aquelas filas que carezcan de algún dato en las columnas previamente mencionadas. El segundo se trata de de modificar los datos, para intentar agruparlos y cambiar su tipo (object) a uno más coherente para su posterior análisis.
 Después, se procede a la limpieza de las columnas indeseadas, sustituyendo sus valores por 'unknowns' o '0', según corresponda. 
 Para finalizar, se resetean los indices y se guarda el dataset de los datos limpios (datttacks.csv) para su posterior análisis.
+
 
 **c) análisis y conclusiones**
 
